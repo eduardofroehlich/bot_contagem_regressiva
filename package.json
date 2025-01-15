@@ -4,9 +4,11 @@
   "description": "bot para contagem regressiva",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install",
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "miojo.dev",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.17.3",

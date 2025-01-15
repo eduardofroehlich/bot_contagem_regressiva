@@ -1,0 +1,1 @@
+Olá, este é um bot simples criado para utilizarem quando quiserem fazer uma contagem regressiva, onde o bot irá todo dia enviar mensagem no canal escolhido informando quantos dias faltam.
